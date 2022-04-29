@@ -46,8 +46,8 @@ export const stack = {
     'SpringFramework [5 months]',
     'Git [3+ yrs]',
     'PhoenixFramework [1 yr]',
-    'Debian Based Linux [7 yrs],
-    'Arch Based Linux [1 yr]
+    'Debian Based Linux [7 yrs]',
+    'Arch Based Linux [1 yr]'
   ]
 };
 

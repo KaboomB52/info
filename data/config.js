@@ -27,8 +27,8 @@ export const projects = {
     {
       title: 'octo-barnacle (Private)',
       description: 'A plugin testing sending and recieving data over redis.',
-      link: 'https://github.com/KaboomB52/octo-barnacle',
-      github: 'KaboomB52/octo-barnacle'
+      link: '',
+      github: ''
     }
   ]
 };

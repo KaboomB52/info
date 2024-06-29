@@ -4,7 +4,7 @@ export const meta = {
 }
 
 export const hero = {
-  title: "👋 Hi! I'm Ian.",
+  title: "Hi! I'm Ian.",
   desc: "I'm a student learning to work with the JVM."
 };
 

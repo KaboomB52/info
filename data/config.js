@@ -1,60 +1,45 @@
 export const meta = {
-  title: 'KaboomB52',
-  description: 'Hey, I\'m KaboomB52. I\'m a java developer making fair pvp not a dream.'
+  title: 'Ian Rich',
+  description: 'Hey, I\'m KaboomB52. Welcome to my portfolio!'
 }
 
 export const hero = {
-  title: "Hi! I'm Kaboom.",
-  desc: "I\'m a java developer making fair pvp not a dream."
+  title: "👋 Hi! I'm Ian.",
+  desc: "I'm a student learning to work with the JVM."
 };
 
 export const projects = {
   title: 'My Projects',
-  desc: "Here are some of the projects i've worked on.",
+  desc: "Here are some of the projects I've worked on.",
   projects: [
     {
-      title: 'MythicalMC Network',
-      description: 'A new server bringing the best of the old and\nthe best of the new together.',
-      link: 'https://mythicalmc.org/',
-      github: 'MythicalMC'
+      title: 'KewlSpigot',
+      description: 'KewlSpigot is a heavily optimized version of Spigot for 1.8, with a new KB system and more config options allowing you to fully customize your server.',
+      github: 'KaboomB52/KewlSpigot'
     },
     {
       title: 'ForestBukkit',
-      description: 'A development studio, currently working on MythicalMC\'s projects',
-      link: 'https://forestbukkit.us/',
+      description: 'A development team developing tools for Minecraft servers.',
       github: 'ForestBukkit'
-    },
-    {
-      title: 'octo-barnacle (Private)',
-      description: 'A plugin testing sending and recieving data over redis.',
-      link: '',
-      github: ''
     }
   ]
 };
 
 export const stack = {
-  title: 'My Abillities',
+  title: 'My Abilities',
   stack: [
     'Java [3+ yrs]',
-    'Kotlin [2 months]',
     'JavaScript [1 yr]',
-    'NodeJS [1 yr]',
-    'React [6 months]',
-    'NextJS [6 months]',
     'RubyOnRails [5+ yrs]',
-    'SpringFramework [5 months]',
     'Git [3+ yrs]',
-    'PhoenixFramework [1 yr]',
-    'Debian Based Linux [7 yrs]',
-    'Arch Based Linux [1 yr]'
+    'Linux [9 yrs]'
   ]
 };
 
 export const contact = {
   title: 'Contact Me',
-  email: 'kaboomb52@outlook.com',
+  email: 'ianrichb52@outlook.com',
   github: 'KaboomB52',
   dribbble: '',
-  linkedin: ''
+  linkedin: 'IanRichB52'
 };
